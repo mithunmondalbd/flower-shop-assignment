@@ -238,6 +238,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 50px;
+    background-position: 50% 50%;
 }
 .get-deal-title{
     color: #272727;
