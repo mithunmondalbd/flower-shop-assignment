@@ -149,3 +149,43 @@ body{
     line-height: 35px;
 }
 /* Our flower section end here  */
+/* Hot deal section start is here */
+.hot-deal-container{
+    background: #E554730D;
+    border-radius: 8px;
+    margin-top: 70px;
+    padding: 40px 0;
+    text-align: center;
+}
+.hot-deal-section{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hot-image{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+}
+.hot-color{
+    color: #E55473;
+}
+.hot-deal-title{
+    color: #272727;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.hot-deal-desc{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 70%;
+    margin: 0 auto;
+    padding: 13px 0 20px;
+}
