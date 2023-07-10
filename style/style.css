@@ -2,7 +2,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
 }
 /* Universal selector end is here */
 
@@ -22,7 +21,6 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0 auto;
-    /* gap: 50px; */
     position: relative;
 }
 .reserved-img{
@@ -33,10 +31,6 @@ body{
     width: 350px;
     height: 450px;
 }
-/* .row-content{
-    border: 1px solid green;
-    position: absolute;
-} */
 .content-title{
     color: #272727;
     font-weight: 800;
@@ -123,7 +117,7 @@ body{
 }
 .flower-link{
     color: #272727;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     text-decoration-line: underline;
     margin-top: 200px;  
@@ -231,7 +225,6 @@ body{
 .instagram-img{
     width: 250px;
     height: 300px;
-    /* opacity: 100; */
 }
 
 /* Latest deal starting is here */
@@ -242,7 +235,8 @@ body{
     border-radius: 8px;
     background-image: url('../Flower Asset/Rectangle\ 9.png');
     background-size: cover;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
 }
 .get-deal-title{
     color: #272727;
@@ -270,3 +264,42 @@ form input[type="text"]{
  .latest-form{
     text-align: center;
  }
+ /* Latest deal end is here */
+
+ /* Footer section start is here */
+ .footer-container{
+    height: 45vh;
+    background-color: #111010;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .footer-title{
+    color: #fff;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal
+ }
+ .footer-color{
+    color: #E55473;
+ }
+ .footer-desc{
+    color: rgba(255, 255, 255, 0.90);
+    width: 40%;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 11px 0 20px;
+ }
+ .company-name{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+/* Footer section end is here  */
