@@ -1,7 +1,10 @@
+/* universal selector is here */
 *{
     margin: 0;
     padding: 0;
 }
+/* Universal selector end is here */
+
 body{
     font-family: 'Lato', sans-serif;
 }
@@ -149,6 +152,7 @@ body{
     line-height: 35px;
 }
 /* Our flower section end here  */
+
 /* Hot deal section start is here */
 .hot-deal-container{
     background: #E554730D;
@@ -188,4 +192,41 @@ body{
     width: 70%;
     margin: 0 auto;
     padding: 13px 0 20px;
+}
+/* Hot deal section end is here */
+
+/* instagram section start is here */
+.instagram-container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+.instagram-title{
+    color: #272727;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 10px;
+}
+.instagram-desc{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    width: 60%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.image-container{
+    display: flex;
+    justify-content: space-between;
+}
+.instagram-img{
+    width: 250px;
+    height: 300px;
 }
