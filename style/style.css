@@ -36,13 +36,13 @@ body{
     font-weight: 800;
     font-size: 55px;
     font-style: normal;
-    line-height: 55px;
+    line-height: 60px;
 }
 .content-desc{
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 30px;
     margin-top: 25px;
     margin-bottom: 12px;
     width: 50%;
@@ -82,7 +82,7 @@ body{
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 22px;
+    line-height: 30px;
     padding: 15px 0 50px;
 }
 .flower-cover{
@@ -186,7 +186,7 @@ body{
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 30px;
     width: 80%;
     margin: 0 auto;
     padding-bottom: 15px;
@@ -215,7 +215,7 @@ body{
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 26px;
     width: 60%;
     margin: auto;
     padding-bottom: 33px;
@@ -258,7 +258,7 @@ body{
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 40px;
+    line-height: 35px;
     padding-bottom: 30px;
 }
 form input[type="text"]{
@@ -298,14 +298,14 @@ form input[type="text"]{
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    padding: 11px 0 20px;
+    line-height: 25px;
+    padding: 10px 0 18px;
  }
  .company-name{
     color: rgba(255, 255, 255, 0.40);
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
+    line-height: 30px;
  }
 /* Footer section end is here  */
